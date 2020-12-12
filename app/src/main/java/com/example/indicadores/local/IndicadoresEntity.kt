@@ -12,4 +12,4 @@ data class IndicadoresEntity(@PrimaryKey @NonNull val id: Int,
                              val unidaddemedida: String,
                              val bitcoinvalor: String
 
-) 
+)
